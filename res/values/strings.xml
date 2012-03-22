@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Prueba de spinner con imagen</string>
+    <string name="app_name">Spinner con imagenes</string>
+    <string name="titulo_spinner">Selecciona un personaje</string>
+
+</resources>
